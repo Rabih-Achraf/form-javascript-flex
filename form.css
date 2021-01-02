@@ -1,0 +1,30 @@
+body {
+  background-image: url("back.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hg {
+  height: 100vh;
+}
+.mn {
+  min-height: 348px !important;
+}
+.bnhe {
+  height: 50px;
+}
+.back {
+  background-color: #001c4e42;
+  color: white;
+  border: 1px solid black;
+}
+
+/*  row 2  */
+
+.R2 {
+  border: 2px solid black;
+}
+
+.icon {
+  width: 100%;
+  height: 100px;
+}
